@@ -4,8 +4,8 @@ Hola soy eduardo un youtuber y programador de un bot llamado colder, eh programa
 <br />
 
    ## Mis Redes Sociales ⚜
-   - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">  [@itseduardoxin](https://www.youtube.com/channel/UCz02OepbBQri41F-pzelOfg)
-   - <img src="https://simpleicons.org/icons/youtube.svg" alt="Youtube" width="32" align="center">  [itsEduardox](https://www.twitter.com/itseduardoxin)
+   - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">  [@leasaleszz](https://www.youtube.com/leasaless)
+   - <img src="https://simpleicons.org/icons/youtube.svg" alt="Youtube" width="32" align="center">  [Leasales](https://www.twitter.com/itseduardoxin)
    
    <br />
    
